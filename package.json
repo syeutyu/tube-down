@@ -1,0 +1,28 @@
+{
+  "name": "tube-down",
+  "version": "1.0.0",
+  "description": "Downloading Youtube Video Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syeutyu/tube-down.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syeutyu/tube-down/issues"
+  },
+  "homepage": "https://github.com/syeutyu/tube-down#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.11",
+    "@types/node": "^12.7.8"
+  }
+}
